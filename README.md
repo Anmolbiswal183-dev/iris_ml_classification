@@ -17,9 +17,9 @@ Building and comparing 3 machine learning models to classify Iris flowers based 
 ## Results
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
-| Logistic Regression | [Your Accuracy] | [Your Precision] | [Your Recall] | [Your F1] |
-| Random Forest | [Your Accuracy] | [Your Precision] | [Your Recall] | [Your F1] |
-| KNN | [Your Accuracy] | [Your Precision] | [Your Recall] | [Your F1] |
+| Logistic Regression | [1.0000] | [1.0000] | [1.0000] | [1.0000] |
+| Random Forest | [1.0000] | [1.0000] | [1.0000] | [1.0000] |
+| KNN | [1.0000] | [1.0000] | [1.0000] | [1.0000] |
 
 ## Best Model Performance
 - **Model:** Logistic Regression
@@ -36,4 +36,4 @@ Building and comparing 3 machine learning models to classify Iris flowers based 
 - `iris_ml_models.ipynb` - Complete ML model notebook
 
 ## Author
-[Your Name]
+[Anmol Biswal]
